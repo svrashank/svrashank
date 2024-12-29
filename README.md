@@ -62,7 +62,6 @@ Here are a few projects I'm most proud of:
 ## 📬 Let's Connect!  
 - **LinkedIn**: [linkedin.com/in/svrashank](https://www.linkedin.com/in/svrashank/)  
 - **Email**: [svrashank@gmail.com](mailto:svrashank@gmail.com)  
-- **Portfolio**: [svrashank.github.io](https://svrashank.github.io)  
 
 ---
 
